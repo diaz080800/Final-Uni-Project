@@ -1,7 +1,5 @@
 # Final-Uni-Project
-Inventory Forecasting using ML
-
-The data is in the zip file.
+Inventory Forecasting using ML.
 
 here is the link for the data:
 https://www.kaggle.com/datasets/jillwang87/online-retail-ii
